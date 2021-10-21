@@ -16,7 +16,7 @@ I personally work a lot with JavaScript (React, Express, and all that fancy stuf
 
 - [CloudSafari](https://mycloudsafari.com) - Marketplace to connect travellers to local tour companies in Africa (built this just before covid started lol).
 
-**I'm open to feedback on anything, so reach out to me if you have some suggestions**
+**I'm open to feedback on anything, so reach out to me if you have some suggestions :)**
 
 
 [![Thanks for checking my profile out!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f603_1f91f&text=Thanks%2520for%2520checking%2520my%2520profile%2520out%21)](https://pimp-my-readme.webapp.io)
