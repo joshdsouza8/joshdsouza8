@@ -1,4 +1,4 @@
-[![Joshua D'Souza, growth engineer || @webapp.io](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=growth%20engineer%20%7C%7C%20%40webapp.io&title=Joshua%20D%27Souza)](https://pimp-my-readme.webapp.io)
+[![Joshua D'Souza, making my way with this dev stuff](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=making%20my%20way%20with%20this%20dev%20stuff&title=Joshua%20D%27Souza)](https://pimp-my-readme.webapp.io)
 
 [![Visitor Counter for joshdsouza8](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=joshdsouza8)](https://pimp-my-readme.webapp.io)
 
