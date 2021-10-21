@@ -1,6 +1,6 @@
 [![Joshua D'Souza, making my way with this dev stuff](https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=making%20my%20way%20with%20this%20dev%20stuff&title=Joshua%20D%27Souza)](https://pimp-my-readme.webapp.io)
 
-
+[![Visitor Counter for joshdsouza8](https://pimp-my-readme.webapp.io/pimp-my-readme/visitor-counter?page=joshdsouza8)](https://pimp-my-readme.webapp.io)
 
 # About Me
 Hey! Thanks for checking out my profile. My name is Josh, and I'm currently working as a growth engineer at [webapp.io](https://webapp.io) (YC S20). I love all things entrepreneurship related, fitness (love me some powerlifting), and overall just being outdoors.
