@@ -19,11 +19,11 @@ I personally work a lot with JavaScript (React, Express, and all that fancy stuf
 **I'm open to feedback on anything, so reach out to me if you have some suggestions :)**
 
 
-[![Thanks for checking my profile out!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f603_1f91f&text=Thanks%2520for%2520checking%2520my%2520profile%2520out%21)](https://pimp-my-readme.webapp.io)
+[![Thanks for checking out my profile!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f603_1f91f-1f3fe&text=Thanks%2520for%2520checking%2520out%2520my%2520profile%21)](https://pimp-my-readme.webapp.io)
 
 ## Connect with Me:
-[![Instagram](http://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joshdsouza_/?hl=en)
+[![Instagram](https://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joshdsouza_/?hl=en)
 
 ## Tech I've used:
-[![JavaScript_HTML_CSS_AWS_Python_NodeJS_MySQL_Express_ReactJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_AWS_Python_NodeJS_MySQL_Express_ReactJS_)](https://pimp-my-readme.webapp.io)
+[![JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_AWS_ReactJS_Express_Flask_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_MySQL_MongoDB_AWS_ReactJS_Express_Flask_)](https://pimp-my-readme.webapp.io)
 
