@@ -22,7 +22,7 @@ I personally work a lot with JavaScript (React, Express, and all that fancy stuf
 [![Thanks for checking my profile out!](https://pimp-my-readme.webapp.io/pimp-my-readme/sliding-text?emojis=1f603_1f91f&text=Thanks%2520for%2520checking%2520my%2520profile%2520out%21)](https://pimp-my-readme.webapp.io)
 
 ## Connect with Me:
-[![Instagram](http://localhost:3000/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joshdsouza_/?hl=en)
+[![Instagram](http://pimp-my-readme.webapp.io/pimp-my-readme/social-media?social=Instagram)](https://www.instagram.com/joshdsouza_/?hl=en)
 
 ## Tech I've used:
 [![JavaScript_HTML_CSS_AWS_Python_NodeJS_MySQL_Express_ReactJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=JavaScript_HTML_CSS_AWS_Python_NodeJS_MySQL_Express_ReactJS_)](https://pimp-my-readme.webapp.io)
